@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Exercise\Exercise\bin\Debug\Exercise.exe
+C:\Users\Administrator\Desktop\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Administrator\Desktop\Exercise\Exercise\obj\x86\Debug\Exercise.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Exercise\Exercise\obj\x86\Debug\Exercise.exe
+C:\Users\Administrator\Desktop\Exercise\Exercise\obj\x86\Debug\Exercise.pdb
+C:\Users\Administrator\Desktop\Exercise\Exercise\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Exercise\Exercise\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Exercise\Exercise\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Exercise\Exercise\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Exercise\Exercise\obj\x86\Debug\Exercise.Controllers.Choose.resources
+C:\Users\Administrator\Desktop\Exercise\Exercise\obj\x86\Debug\Exercise.Form_Con.resources
+C:\Users\Administrator\Desktop\Exercise\Exercise\obj\x86\Debug\Exercise.Controllers.Judge.resources
+C:\Users\Administrator\Desktop\Exercise\Exercise\obj\x86\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Exercise\Exercise\obj\x86\Debug\Exercise.csproj.GenerateResource.Cache
